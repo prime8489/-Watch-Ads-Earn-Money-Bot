@@ -1,5 +1,3 @@
-Set Up the MySQL Database
-
 CREATE DATABASE mseet_3333333333_db;
 
 USE mseet_3333333333_db;
